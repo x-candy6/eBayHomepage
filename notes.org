@@ -1,0 +1,7 @@
+* Notification Bar
+** # of Orders that need to be fulfilled
+
+* boxes
+** Order List - Shows all recent orders
+** Bulk Labels
+** My Ebay Shipping Labels - for reprinting and seeing recent orders
