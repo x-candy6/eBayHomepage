@@ -69,4 +69,12 @@ setTimeout(() => {
   console.log(price, categoryID, category);
 }, 1000);
 
-
+// 06/13/23 - TODO 
+// Next we need to retrieve all the SendOffersToInterestedBuyers listings, 
+// check if they are comics,
+// if they are:
+//   check if they are on sale:
+//   if they are:
+//     send a $4.74 offer with a specified Description.
+//   If they are not:
+//     send a $7.50 offer with a specified description.
