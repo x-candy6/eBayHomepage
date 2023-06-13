@@ -78,3 +78,11 @@ setTimeout(() => {
 //     send a $4.74 offer with a specified Description.
 //   If they are not:
 //     send a $7.50 offer with a specified description.
+
+// Later Plans
+// After getting the sendOffers done, 
+// this is what comes next:
+//   - Get the number of orders that need to be shipped
+//     - Display it on the index.html
+//   - Make a send offer button
+//     - Test the functionality
